@@ -1,7 +1,6 @@
 |STT|Tệp zip|Tệp|Hash|Máy chủ điều khiển|Biến thể|
 |:----|:----|:----|:----|:----|:----|
-|    1          | |adobeupdate.dat|5b16347c180c8a2e25033ec31ac8728e72a0812b01ea7a312cbb341c6c927d06|10.17.3.205<br>10.65.5.152<br>10.159.5.117
-<br>10.139.3.94|Xor1|
+|    1          | |adobeupdate.dat|5b16347c180c8a2e25033ec31ac8728e72a0812b01ea7a312cbb341c6c927d06|10.17.3.205<br>10.65.5.152<br>10.159.5.117<br>10.139.3.94|Xor1|
 |    2          |VirusShare_17651fec634498b8faf986e25876a06d|acrord32.dll|eef56bfc68959c6eaa66ab6abcaaf8fb54aa5b5a7da0866d97a1effeae0952b8 |http://103.85.24.158/eeas.dat|Xor1|
 | | |wsc.dll |5a795c4b2a1a9c76791a516822ae0c9ec9d02780c41d2f6a6960a4ea15d68e34|www.systeminfor.com| |
 | | |main.dat|f7a7eca072cb07af2a769bff4729478a9ec714c59e3c1c25410184014ccee18e | | |
