@@ -81,7 +81,7 @@
 | 8 | C:\ProgramData\Acronis | MyDell.dll | 96A40912D26CAA3F5688BDB8CB350E44 | OriginalFilename: colorui.dll |
 | 9 | C:\Windows\Temp\KAV Remote Installation\e6ca135a-a1df-4887-b4b6-f4b7e9a9b37c\73057b18-75d2-4275-bed4-303c8be985e8\exec | HPNotifications.exe | 4C44F0F359C2021119A28F1A17E0AD99 | SignerCertificate: CN=HP Inc. |
 | 10 | C:\Windows\Temp\KAV Remote Installation\e6ca135a-a1df-4887-b4b6-f4b7e9a9b37c\73057b18-75d2-4275-bed4-303c8be985e8\exec | WTSAPI32.dll | 6662AE4AA2857E69012AA9EB65635F74 |  |
-| 11 | C:\Windows\Temp\KAV Remote Installation\e6ca135a-a1df-4887-b4b6-f4b7e9a9b37c\73057b18-75d2-4275-bed4-303c8be985e8\exec | kl.sc.ri.stderr.txt | D41D8CD98F00B204E9800998ECF8427E |  |
+| 11 | C:\Windows\Temp\KAV Remote Installation\e6ca135a-a1df-4887-b4b6-f4b7e9a9b37c\73057b18-75d2-4275-bed4-303c8be985e8\exec | kl.sc.ri.stderr.txt |  |
 | 12 | C:\ProgramData\HP | at.tmp | 22D003E25576DE1C585C731C6E4EE3B5 |  |
 | 13 | C:\ProgramData\HP | DellCustomerConnect.dll | 92B4B58C843B13290D18AFD77F3E053A |  |
 | 14 | C:\ProgramData\HP | DellCustomerConnect.exe | E627BBD30970A0D51D3AD8C7C15BD904 | SignerCertificate: CN=Dell Inc <br> Product: DellCustomerConnect <br> OriginalFilename: DellCustomerConnect.exe |
